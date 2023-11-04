@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Program\Program\bin\Debug\Program.exe.config
+C:\Users\marti\source\repos\Program\Program\bin\Debug\Program.exe
+C:\Users\marti\source\repos\Program\Program\bin\Debug\Program.pdb
+C:\Users\marti\source\repos\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Program\Program\obj\Debug\Program.exe
+C:\Users\marti\source\repos\Program\Program\obj\Debug\Program.pdb
